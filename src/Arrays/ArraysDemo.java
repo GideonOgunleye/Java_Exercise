@@ -1,4 +1,4 @@
-package Strings;
+package Arrays;
 
 import org.apache.commons.lang.ArrayUtils;
 //import java.util.*;
