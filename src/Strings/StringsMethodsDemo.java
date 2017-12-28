@@ -1,6 +1,6 @@
 package Strings;
 
-public class StringsMethods {
+public class StringsMethodsDemo {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
