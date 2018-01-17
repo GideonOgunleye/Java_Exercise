@@ -17,7 +17,7 @@ public class MethodsDemo {
 		  -Methods should not be inside of each other.*/
 		
 		
-		//Finding Methods Sample
+		/*Finding Methods Sample*/
 		
 		findGrades("John", 90);
 		findGrades("Tom", 80);

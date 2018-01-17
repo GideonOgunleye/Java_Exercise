@@ -1,6 +1,6 @@
 package Methods;
 
-public class MethodsDemoPractise {
+public class MethodsExercise1 {
 
 
 	public static void main(String [] args){

@@ -1,6 +1,6 @@
 package Methods;
 
-public class ReturnTypesDemoPractise {
+public class ReturnTypesExercise1 {
 	
 	public static void main (String [] args){
 		
