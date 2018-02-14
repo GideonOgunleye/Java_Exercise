@@ -45,7 +45,7 @@ public class ReturnTypesDemo {
 			
 		}else if (score > 100 || score <0){
 			
-			grade = "Grade Error....Please Check";
+			grade = "Grade Error....Please Check Score";
 			
 		}else {
 			
